@@ -20,6 +20,8 @@ namespace Sounds
             Console.WriteLine("Кол-во согласных: " + consonants);
             Console.ReadLine();
             sr.Close();
+        
+
 
         }
     }
