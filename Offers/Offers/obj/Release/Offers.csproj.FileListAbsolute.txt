@@ -1,0 +1,11 @@
+J:\Project\Offers\Offers\bin\Release\Offers.exe.config
+J:\Project\Offers\Offers\bin\Release\Offers.exe
+J:\Project\Offers\Offers\bin\Release\Offers.pdb
+J:\Project\Offers\Offers\obj\Release\Offers.exe
+J:\Project\Offers\Offers\obj\Release\Offers.pdb
+C:\Users\1\Downloads\File\File\Offers\Offers\bin\Release\Offers.exe.config
+C:\Users\1\Downloads\File\File\Offers\Offers\obj\Release\Offers.exe
+C:\Users\1\Downloads\File\File\Offers\Offers\obj\Release\Offers.pdb
+C:\projects\File\Offers\Offers\bin\Release\Offers.exe.config
+C:\projects\File\Offers\Offers\obj\Release\Offers.exe
+C:\projects\File\Offers\Offers\obj\Release\Offers.pdb

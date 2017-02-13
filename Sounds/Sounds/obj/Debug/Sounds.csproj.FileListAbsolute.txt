@@ -1,0 +1,13 @@
+J:\Project\Sounds\Sounds\bin\Debug\Sounds.exe.config
+J:\Project\Sounds\Sounds\bin\Debug\Sounds.exe
+J:\Project\Sounds\Sounds\bin\Debug\Sounds.pdb
+J:\Project\Sounds\Sounds\obj\Debug\Sounds.exe
+J:\Project\Sounds\Sounds\obj\Debug\Sounds.pdb
+C:\Users\1\Downloads\File\File\Sounds\Sounds\bin\Debug\Sounds.exe.config
+C:\Users\1\Downloads\File\File\Sounds\Sounds\obj\Debug\Sounds.exe
+C:\Users\1\Downloads\File\File\Sounds\Sounds\obj\Debug\Sounds.pdb
+C:\Users\1\Downloads\File\File\Sounds\Sounds\bin\Debug\Sounds.exe
+C:\Users\1\Downloads\File\File\Sounds\Sounds\bin\Debug\Sounds.pdb
+C:\projects\File\Sounds\Sounds\bin\Debug\Sounds.exe.config
+C:\projects\File\Sounds\Sounds\obj\Debug\Sounds.exe
+C:\projects\File\Sounds\Sounds\obj\Debug\Sounds.pdb

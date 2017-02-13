@@ -1,0 +1,15 @@
+J:\Project\Indention\Indention\bin\Debug\Indention.exe.config
+J:\Project\Indention\Indention\bin\Debug\Indention.exe
+J:\Project\Indention\Indention\bin\Debug\Indention.pdb
+J:\Project\Indention\Indention\obj\Debug\Indention.exe
+J:\Project\Indention\Indention\obj\Debug\Indention.pdb
+C:\Users\1\Downloads\File\File\Indention\Indention\bin\Debug\Indention.exe.config
+C:\Users\1\Downloads\File\File\Indention\Indention\obj\Debug\Indention.exe
+C:\Users\1\Downloads\File\File\Indention\Indention\obj\Debug\Indention.pdb
+C:\Users\1\Downloads\File\File\Indention\Indention\bin\Debug\Indention.exe
+C:\Users\1\Downloads\File\File\Indention\Indention\bin\Debug\Indention.pdb
+C:\projects\File\Indention\Indention\bin\Debug\Indention.exe.config
+C:\projects\File\Indention\Indention\obj\Debug\Indention.exe
+C:\projects\File\Indention\Indention\obj\Debug\Indention.pdb
+C:\projects\File\Indention\Indention\bin\Debug\Indention.exe
+C:\projects\File\Indention\Indention\bin\Debug\Indention.pdb

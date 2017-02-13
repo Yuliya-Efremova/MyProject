@@ -1,0 +1,5 @@
+C:\projects\File\Information\Information\bin\Release\Information.exe.config
+C:\projects\File\Information\Information\bin\Release\Information.exe
+C:\projects\File\Information\Information\bin\Release\Information.pdb
+C:\projects\File\Information\Information\obj\Release\Information.exe
+C:\projects\File\Information\Information\obj\Release\Information.pdb

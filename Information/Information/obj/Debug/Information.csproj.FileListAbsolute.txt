@@ -1,0 +1,6 @@
+C:\projects\File\Information\Information\bin\Debug\Information.exe.config
+C:\projects\File\Information\Information\bin\Debug\Information.exe
+C:\projects\File\Information\Information\bin\Debug\Information.pdb
+C:\projects\File\Information\Information\obj\Debug\Information.csprojResolveAssemblyReference.cache
+C:\projects\File\Information\Information\obj\Debug\Information.exe
+C:\projects\File\Information\Information\obj\Debug\Information.pdb

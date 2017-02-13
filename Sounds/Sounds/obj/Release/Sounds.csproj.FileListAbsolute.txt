@@ -1,0 +1,8 @@
+J:\Project\Sounds\Sounds\bin\Release\Sounds.exe.config
+J:\Project\Sounds\Sounds\bin\Release\Sounds.exe
+J:\Project\Sounds\Sounds\bin\Release\Sounds.pdb
+J:\Project\Sounds\Sounds\obj\Release\Sounds.exe
+J:\Project\Sounds\Sounds\obj\Release\Sounds.pdb
+C:\projects\File\Sounds\Sounds\bin\Release\Sounds.exe.config
+C:\projects\File\Sounds\Sounds\obj\Release\Sounds.exe
+C:\projects\File\Sounds\Sounds\obj\Release\Sounds.pdb
